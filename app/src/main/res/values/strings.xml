@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MultithreadingAndroid-part1</string>
+
+    <string-array name="urls">
+        <item>Image1</item>
+        <item>Image2</item>
+        <item>Image3</item>
+        <item>Image4</item>
+        <item>Image5</item>
+    </string-array>
+
+    <string-array name="imageurls">
+        <item>http://netdna.webdesignerdepot.com/uploads/2008/11/sample-graphic.jpg</item>
+        <item>http://netdna.webdesignerdepot.com/uploads/2008/11/sample-graphic.jpg</item>
+        <item>http://netdna.webdesignerdepot.com/uploads/2008/11/sample-graphic.jpg</item>
+        <item>http://netdna.webdesignerdepot.com/uploads/2008/11/sample-graphic.jpg</item>
+        <item>http://netdna.webdesignerdepot.com/uploads/2008/11/sample-graphic.jpg</item>
+        </string-array>
+</resources>
